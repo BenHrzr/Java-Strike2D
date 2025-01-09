@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Bombe
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ stTim()
+comment3.params=
+comment3.target=int\ gibgTim()
+comment4.params=
+comment4.target=int\ gibSpzt()
+comment5.params=
+comment5.target=boolean\ gibSpz()
+comment6.params=
+comment6.target=void\ sprengzeitTimerEnde()
+comment7.params=
+comment7.target=void\ Z\u00FCnden()
+comment8.params=
+comment8.target=void\ Entsch\u00E4rfen()
+comment9.params=
+comment9.target=void\ Timer()
+numComments=10

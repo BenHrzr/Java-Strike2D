@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=bulletSp1
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ collision()
+comment3.params=
+comment3.target=void\ folgeSp2()
+numComments=4
